@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Practica01</string>
+
+
+    <string name="texto_peso">Peso</string>
+    <string name="texto_altura">Altura</string>
+    <string name="boton_calcular">Calcular</string>
+
+    <string name="boton_ayuda">Ayuda</string>
+
+    <string name="texto_ayuda">Se tiene que ingresar en los recuadros en blanco tanto como la altura del usuario como su peso para luego dar en el boton Calcular/Calculate y ver su índice de masa muscular.</string>
+
+    <string name="texto_hpeso">Ingresar peso</string>
+    <string name="texto_haltura">Ingresar altura</string>
+
+
+    <string name="texto_IMC">Su IMC es:</string>
+    <string name="texto_valor_IMC">0</string>
+    <string name="textonombre2">Joaquin Liendo Velásquez</string>
+    <string name="recomendacion">0</string>
+
+
+
+</resources>
